@@ -78,14 +78,9 @@
     <header>
         <div class="container">
             <div class="intro-text">
-
-              <div class="row">
-                <img class="img-circle img-responsive img-centered" src="img/me.jpg" alt="">
-              </div>
-              <div class="intro-lead-in">Welcome!</div>
-              <div class="intro-heading"></div>
-              <!-- <div><a href="#publication" class="page-scroll btn btn-xl">Tell Me More</a> </div> -->
-              <div><a href="data/curriculum-vitae-youngjae.pdf" class="page-scroll btn btn-xl">Curriculum Vitae</a> </div>
+                <div class="intro-lead-in">Welcome!</div>
+                <div class="intro-heading"></div>
+                <a href="#publication" class="page-scroll btn btn-xl">Tell Me More</a>
             </div>
         </div>
     </header>
@@ -101,50 +96,37 @@
             <div class="row text-center">
                 <div class="col-md-2">
                     <span class="fa-stack fa-4x">
-                        <i class="fa fa-camera fa-stack-1x"></i>
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
                     </span>
-
                     <h4 class="service-heading">Computer Vision</h4>
-                    <p class="text-muted">Visual Saliency, Image Recognition </p>
+                    <p class="text-muted">Computer Vision.</p>
                 </div>
                 <div class="col-md-2">
                     <span class="fa-stack fa-4x">
-                        <img class="fa img-centered text-primary" src="img/logos/NLP.png" height=70px width=70px ></i>
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
-
-                    <h4 class="service-heading">Natural Language Processing</h4>
-                    <p class="text-muted">Language Generation Model, Story Generation</p>
+                    <h4 class="service-heading">Machine Learning</h4>
+                    <p class="text-muted">Machine Learning.</p>
                 </div>
                 <div class="col-md-2">
                     <span class="fa-stack fa-4x">
-                      <img class="fa img-centered text-primary" src="img/logos/MV.png" height=70px width=70px ></i>
-                  </span>
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                    </span>
                     <h4 class="service-heading">Visual Storytelling</h4>
-                    <p class="text-muted">Story based Summarization, Automatic Videography</p>
-                  </div>
+                    <p class="text-muted">Story-based multi-media contents summarization. Story generation</p>
+                </div>
                 <div class="col-md-2">
                     <span class="fa-stack fa-4x">
-                        <img class="fa img-centered text-primary" src="img/logos/Video.png" height=70px width=70px ></i>
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
                     </span>
-                    <h4 class="service-heading">Video understanding</h4>
-                    <p class="text-muted">Video to Language, Video Question and Answering </p>
-                  </div>
-                    <div class="col-md-2">
-                    <span class="fa-stack fa-4x">
-                        <img class="fa img-centered text-primary" src="img/logos/VR.png" height=70px width=70px ></i>
-                    </span>
-                    <h4 class="service-heading">Virtual/Mixed Reality</h4>
-                    <p class="text-muted">Learning User Experience on VR/AR System </p>
-                  </div>
-
-                <div class="col-md-2">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-heartbeat fa-stack-1x"></i>
-                    </span>
-                    <h4 class="service-heading">Medical AI</h4>
-                    <p class="text-muted">Bioinformatics, Medical Vision</p>
-                  </div>
-              </div>
+                    <h4 class="service-heading">Virtual/Augmented Reality</h4>
+                    <p class="text-muted">I interest in application with deeplearning and computer vision algorithms.</p>
+                </div>
+            </div>
         </div>
     </section>
 
@@ -155,74 +137,117 @@
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Publication</h2>
                 </div>
-              </div>
-              <div class="row">
-               <div class="col-lg-12 col-lg-offset-1 text">
-                <h3 class="service-heading">International Conference</h3>
-                <p class="large text"> <i>Supervising Neural Attention Models for Video Captioning by Human Gaze Data </i>
-                  <br><b>Youngjae Yu</b>,Jongwook Choi, Yeonhwa Kim, Kyoung Yu, Sang-hun Lee, Gunhee Kim <br>
-                <b>In CVPR 2017</b> </p>
-                <p class="large text"> <i>End-to-end Concept Word Detection for Video Captioning, Retrieval, and Question Answering </i>
-                  <br><b>Youngjae Yu</b>,Hyungjin Ko, Jongwook Choi, Gunhee Kim <br>
-                  <b>In CVPR 2017 (Spotlight)</b></p>
-                <p class="large text"> <i>TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering </i> <br>
-                  Yunseok Jang, Yale Song, <b>Youngjae Yu</b>, Youngjin Kim, Gunhee Kim <br>
-                  <b>In CVPR 2017 (Spotlight)</b></p>
-                <p class="large text"> <i>TimesVector: A Vectorized Clustering Approach to the Analysis of Time Series Transcriptome Data from Multiple Phenotypes </i> <br>
-                  Inuk Jung, Kyuri Jo, Hyejin Kang, Hongryul Ahn, <b>Youngjae Yu</b>, Sun Kim <br>
-                  <b>In GIW 2016</b></p>
-                <h3 class="service-heading"><br>International Journal</h3>
-                <p class="large text"> <i>TimesVector: A Vectorized Clustering Approach to the Analysis of Time Series Transcriptome Data from Multiple Phenotypes </i> <br>
-                  Inuk Jung, Kyuri Jo, Hyejin Kang, Hongryul Ahn, <b>Youngjae Yu</b>, Sun Kim <br>
-                  <b>In Bioinformatics 2017</b></p>
-                <h3 class="service-heading"><br>Workshop</h3>
-                <p class="large text"> <i>Video Captioning and Retrieval Models with Semantic Attention</i> <br>
-                  <b>Youngjae Yu</b>,Hyungjin Ko, Jongwook Choi, Gunhee Kim <br>
-                  <b>In ECCV 2016, LSMDC & VisStory</b></p>
-
-                <h3 class="service-heading"><br>Domestic</h3>
-                <p class="large text"> <i>Correlation Based Feature Selection and Pattern Clustering Method for Time
-                  Series Gene Expression Data of Drought Stressed Rice</i> <br>
-                  <b>Youngjae Yu</b>, Sun Kim <br>
-                </div>
-
-
             </div>
-
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">CV</h4>
+                    <p class="text-muted">Computer Vision.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">ML</h4>
+                    <p class="text-muted">Machine Learning.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Visual Storytelling</h4>
+                    <p class="text-muted">Story-based multi-media contents summarization. Story generation</p>
+                </div>
+            </div>
         </div>
     </section>
 
     <!-- Projects Grid Section -->
     <section id="projects" class="bg-light-gray">
-
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Projects</h2>
-                    <h3 class="section-subheading text-muted">My project experiments</h3>
-
+                    <h2 class="section-heading">Portfolio</h2>
+                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6 col-sm-6 vportfolio-item">
-                        <img src="img/portfolio/cvpr17_gazecap_top.gif" class="img-responsive" alt="">
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/roundicons.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Visual Attentive Script</h4>
-                        <p class="text-muted">Human gaze prediction and video description generation</p>
+                        <h4>Round Icons</h4>
+                        <p class="text-muted">Graphic Design</p>
                     </div>
                 </div>
-                <div class="col-md-6 col-sm-6 portfolio-item">
+                <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                        <img src="img/portfolio/cvpr17_tgifqa_top.gif" class="img-responsive" alt="">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>TGIF-QA Project</h4>
-                        <p class="text-muted">New Video QA framework based on TGIF web gif dataset</p>
+                        <h4>Startup Framework</h4>
+                        <p class="text-muted">Website Design</p>
                     </div>
                 </div>
-
-                <!-- <div class="col-md-6 col-sm-6 portfolio-item">
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/treehouse.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Treehouse</h4>
+                        <p class="text-muted">Website Design</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/golden.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Golden</h4>
+                        <p class="text-muted">Website Design</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/escape.png" class="img-responsive" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Escape</h4>
+                        <p class="text-muted">Website Design</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 portfolio-item">
                     <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
@@ -235,7 +260,7 @@
                         <h4>Dreams</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
-                  </div> -->
+                </div>
             </div>
         </div>
     </section>
@@ -245,8 +270,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">About Me</h2>
-                    <h3 class="section-subheading text-muted">Timeline for my research path </h3>
+                    <h2 class="section-heading">About</h2>
+                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
             <div class="row">
@@ -254,64 +279,65 @@
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/vision_logo.png" alt="">
+                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>2009-2011</h4>
-                                    <h4 class="subheading">SNU Vision & Learning Lab</h4>
+                                    <h4 class="subheading">Our Humble Beginnings</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Graduate Researcher. Studying video understanding and vision to language.  </p>
+                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/bhi_logo.png" alt="">
+                                <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>March 2014 - Aug 2014 </h4>
-                                    <h4 class="subheading">SNU Bio & Health Informatics Lab</h4>
+                                    <h4>March 2011</h4>
+                                    <h4 class="subheading">An Agency is Born</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted"> Undergraduate research intern (Medical Machine Learning and Drought-stressed rice RNA expression). Advisor : Sun Kim </p>
+                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/snu.png" alt="">
+                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>June 2012 - Dec 2012</h4>
-                                    <h4 class="subheading">SNU ELPL Lab (Now, CAD4X Lab in KAIST) </h4>
+                                    <h4>December 2012</h4>
+                                    <h4 class="subheading">Transition to Full Service</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted"> Undergraduate research intern (Low power optimization design) Advisor : Naehyuk Chang </p>
+                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/snu.png" alt="">
+                                <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>Mar 2009</h4>
-                                    <h4 class="subheading">Seoul Nation University B.S. Degree </h4>
+                                    <h4>July 2014</h4>
+                                    <h4 class="subheading">Phase Two Expansion</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Bachelor studies in Dept of Computer Science & Engineering, Seoul Nation University(SNU) @ Korea </p>
+                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4>My
-                                    <br>Story</h4>
+                                <h4>Be Part
+                                    <br>Of Our
+                                    <br>Story!</h4>
                             </div>
                         </li>
                     </ul>
@@ -325,28 +351,100 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Teaching</h2>
-                    <h3 class="section-subheading text-muted">Teaching Assistant Experience and Public Lecture.</h3>
+                    <h2 class="section-heading">Our Amazing Team</h2>
+                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text">
-                  <p class="large text-muted"> 2017. Teaching Assistant, Big Data Academy : Introduction to RNN    </p>
-                  <p class="large text-muted"> 2016. Teaching Assistant, 4190.773 : Probabilistic Graphical Model  </p>
-                  <p class="large text-muted"> 2015. Teaching Assistant, 4190.307 : Operating System               </p>
-                  <p class="large text-muted"> 2015. Teaching Assistant, M1522.001000 : Computer Vision            </p>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Kay Garland</h4>
+                        <p class="text-muted">Lead Designer</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Larry Parker</h4>
+                        <p class="text-muted">Lead Marketer</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Diana Pertersen</h4>
+                        <p class="text-muted">Lead Developer</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
                 </div>
             </div>
         </div>
     </section>
+
+    <!-- Clients Aside -->
+    <aside class="clients">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <img src="img/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <img src="img/logos/creative-market.jpg" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </aside>
 
     <!-- Contact Section -->
     <section id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Contact Me</h2>
-                    <h3 class="section-subheading text-muted">Send me an email if you would like to get in touch, have questions or feedback on my work.</h3>
+                    <h2 class="section-heading">Contact Us</h2>
+                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
             <div class="row">
@@ -393,9 +491,9 @@
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
-                        <li><a href="https://twitter.com/easycommit"><i class="fa fa-twitter"></i></a>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a>
                         </li>
-                        <li><a href="https://github.com/yj-yu"><i class="fa fa-github"></i></a>
+                        <li><a href="#"><i class="fa fa-facebook"></i></a>
                         </li>
                         <li><a href="#"><i class="fa fa-linkedin"></i></a>
                         </li>
