@@ -99,6 +99,12 @@ fieldset[disabled] .btn-primary.active {
   color: #0077ff;
   background-color: white;
 }
+.header-btn {
+    display: inline-block;
+    width: 260px;
+    margin-top: 12px;
+    text-align: center;
+}
 .btn-xl {
   color: white;
   background-color: #0077ff;
